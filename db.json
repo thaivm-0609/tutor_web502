@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "name": "thaivm2",
+      "price": "20000",
+      "description": "asafsdfasdfasdfasdfasd",
+      "image": "https://picsum.photos/100/100",
+      "id": 3
+    },
+    {
+      "name": "thaivm3",
+      "price": "123",
+      "description": "đây là description",
+      "image": "https://picsum.photos/100/100",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "email": "thaivm2@fpt.edu.vn",
+      "password": "$2a$10$yunbqyJRcKq.qcJF5yrtvOpIXzCqc7wvZkxJiZGi0Bmb5ZBSU5Ua6",
+      "name": "thaivm2",
+      "id": 1
+    },
+    {
+      "email": "thaivm2@fe.edu.vn",
+      "password": "$2a$10$xAubZYNsrhjBrNpjiuXeAeEhnUs2x.4AlTWzyAbvCDJwSPM0CMvQC",
+      "name": "thai",
+      "id": 2
+    }
+  ]
+}
